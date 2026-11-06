@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.wrangler/
+.dev.vars
+*.local
+coverage/
+tools/migrate-v3/dump/
+tools/migrate-v3/out/
+.dev.demo
+.dev.superadmin
